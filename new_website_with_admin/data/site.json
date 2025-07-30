@@ -1,0 +1,16 @@
+{
+  "hero_title": "Hi, I'm Bobby!",
+  "hero_subtitle": "Science student & ML learner",
+  "about": "This is a short paragraph about me and my work.",
+  "skills": [
+    { "name": "Python" },
+    { "name": "Machine Learning" }
+  ],
+  "projects": [
+    {
+      "title": "FairCare",
+      "description": "Evaluating fairness in ML for healthcare.",
+      "link": "#"
+    }
+  ]
+}
